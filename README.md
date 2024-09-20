@@ -18,4 +18,4 @@ Um sistema de caixa eletrônico simples que permite depósitos, saques e exibiç
 
 ## Tecnologias utilizadas
 
-* Python 3.x
+* Python 3.10.12
